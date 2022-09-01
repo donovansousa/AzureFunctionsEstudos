@@ -1,0 +1,12 @@
+C:\Users\donov\Desktop\AzureFunctionsAppEstudos\AzureFunctionsEstudos\CrossCutting.Util\bin\Debug\net6.0\CrossCutting.Util.deps.json
+C:\Users\donov\Desktop\AzureFunctionsAppEstudos\AzureFunctionsEstudos\CrossCutting.Util\bin\Debug\net6.0\CrossCutting.Util.dll
+C:\Users\donov\Desktop\AzureFunctionsAppEstudos\AzureFunctionsEstudos\CrossCutting.Util\bin\Debug\net6.0\CrossCutting.Util.pdb
+C:\Users\donov\Desktop\AzureFunctionsAppEstudos\AzureFunctionsEstudos\CrossCutting.Util\obj\Debug\net6.0\CrossCutting.Util.csproj.AssemblyReference.cache
+C:\Users\donov\Desktop\AzureFunctionsAppEstudos\AzureFunctionsEstudos\CrossCutting.Util\obj\Debug\net6.0\CrossCutting.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donov\Desktop\AzureFunctionsAppEstudos\AzureFunctionsEstudos\CrossCutting.Util\obj\Debug\net6.0\CrossCutting.Util.AssemblyInfoInputs.cache
+C:\Users\donov\Desktop\AzureFunctionsAppEstudos\AzureFunctionsEstudos\CrossCutting.Util\obj\Debug\net6.0\CrossCutting.Util.AssemblyInfo.cs
+C:\Users\donov\Desktop\AzureFunctionsAppEstudos\AzureFunctionsEstudos\CrossCutting.Util\obj\Debug\net6.0\CrossCutting.Util.csproj.CoreCompileInputs.cache
+C:\Users\donov\Desktop\AzureFunctionsAppEstudos\AzureFunctionsEstudos\CrossCutting.Util\obj\Debug\net6.0\CrossCutting.Util.dll
+C:\Users\donov\Desktop\AzureFunctionsAppEstudos\AzureFunctionsEstudos\CrossCutting.Util\obj\Debug\net6.0\refint\CrossCutting.Util.dll
+C:\Users\donov\Desktop\AzureFunctionsAppEstudos\AzureFunctionsEstudos\CrossCutting.Util\obj\Debug\net6.0\CrossCutting.Util.pdb
+C:\Users\donov\Desktop\AzureFunctionsAppEstudos\AzureFunctionsEstudos\CrossCutting.Util\obj\Debug\net6.0\ref\CrossCutting.Util.dll

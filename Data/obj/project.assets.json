@@ -1,11 +1,42 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Aplicacao/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Aplicacao.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Aplicacao.dll": {}
+        }
+      }
+    },
+    "net6.0/linux-x64": {
+      "Aplicacao/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Aplicacao.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Aplicacao.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Aplicacao/1.0.0": {
+      "type": "project",
+      "path": "../Aplicacao/Aplicacao.csproj",
+      "msbuildProject": "../Aplicacao/Aplicacao.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Aplicacao >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\donov\\.nuget\\packages\\": {},
@@ -38,7 +69,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\donov\\Desktop\\AzureFunctionsAppEstudos\\AzureFunctionsEstudos\\Aplicacao\\Aplicacao.csproj": {
+              "projectPath": "C:\\Users\\donov\\Desktop\\AzureFunctionsAppEstudos\\AzureFunctionsEstudos\\Aplicacao\\Aplicacao.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -66,6 +101,11 @@
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "linux-x64": {
+        "#import": []
       }
     }
   }
